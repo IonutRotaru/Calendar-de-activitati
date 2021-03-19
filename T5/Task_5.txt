@@ -1,0 +1,11 @@
+Duration:
+activity: Leaving	 duration: 99884
+activity: Breakfast	 duration: 10688
+activity: Sleeping duration: 471811
+activity: Snack	 duration: 361
+activity: Grooming	 duration: 9642
+activity: Showering	 duration: 5649
+activity: Spare_Time/TV duration: 512935
+activity: Toileting	 duration: 8434
+activity: Lunch duration: 18811
+
